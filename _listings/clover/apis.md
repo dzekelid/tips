@@ -12,11 +12,110 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "23096"
 tags: Tips
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: ' - Get all tip suggestions for a merchant'
+  x-api-slug: v3merchantsmidtip-suggestions-get
+  description: Get all tip suggestions for a merchant.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestions-get-openapi.md
+- name: ' - Get a single tip suggestion'
+  x-api-slug: v3merchantsmidtip-suggestionstid-get
+  description: Get a single tip suggestion.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestionstid-get-openapi.md
+- name: ' - Update a single tip suggestion'
+  x-api-slug: v3merchantsmidtip-suggestionstid-post
+  description: Update a single tip suggestion.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestionstid-post-openapi.md
+- name: ' - Get all tip suggestions for a merchant'
+  x-api-slug: v3merchantsmidtip-suggestions-get
+  description: Get all tip suggestions for a merchant.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestions-get-openapi.md
+- name: ' - Get a single tip suggestion'
+  x-api-slug: v3merchantsmidtip-suggestionstid-get
+  description: Get a single tip suggestion.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestionstid-get-openapi.md
+- name: ' - Update a single tip suggestion'
+  x-api-slug: v3merchantsmidtip-suggestionstid-post
+  description: Update a single tip suggestion.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestionstid-post-openapi.md
+- name: ' - Update a single tip suggestion'
+  x-api-slug: v3merchantsmidtip-suggestionstid-post
+  description: Update a single tip suggestion.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestionstid-post-openapi.md
+- name: ' - Get a single tip suggestion'
+  x-api-slug: v3merchantsmidtip-suggestionstid-get
+  description: Get a single tip suggestion.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestionstid-get-openapi.md
+- name: ' - Get all tip suggestions for a merchant'
+  x-api-slug: v3merchantsmidtip-suggestions-get
+  description: Get all tip suggestions for a merchant.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/tips/master/_listings/clover/v3merchantsmidtip-suggestions-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://cloudflare.api.gallery.streamdata.io
